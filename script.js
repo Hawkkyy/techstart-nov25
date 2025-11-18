@@ -1,5 +1,5 @@
 // Configuration
-const REPO_OWNER = 'aremis9'; // Update this with your GitHub username
+const REPO_OWNER = 'dost-start-org'; // Update this with your GitHub username
 const REPO_NAME = 'techstart-nov25';
 const MESSAGES_FOLDER = 'messages';
 const BRANCH = 'main';
